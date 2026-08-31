@@ -103,6 +103,9 @@ For Critical or Low-Confidence Actions
     ↓
 AUDITED OUTPUT
 Logs • Explanation • Traceability
+### System Architecture Diagram
+
+![Optimistic-101 System Architecture](../gptproj.png)
 
 
 ## 7. Major Components
